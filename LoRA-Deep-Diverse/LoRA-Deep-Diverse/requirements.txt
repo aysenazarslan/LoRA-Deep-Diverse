@@ -1,0 +1,13 @@
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+evaluate
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+sentencepiece

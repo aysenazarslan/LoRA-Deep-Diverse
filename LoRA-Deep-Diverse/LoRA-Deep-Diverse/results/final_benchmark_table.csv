@@ -1,0 +1,3 @@
+Model,En İyi Checkpoint,Pass@1 (%),Çözülen Soru
+deep_instruction,step-400-epoch-1,34.1,14/41
+diverse_instruction,checkpoint-step-800-epoch-3,43.9,18/41
