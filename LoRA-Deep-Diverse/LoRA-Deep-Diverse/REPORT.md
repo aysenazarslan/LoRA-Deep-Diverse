@@ -140,10 +140,3 @@ These findings highlight the importance of dataset design in parameter-efficient
 
 ---
 
-## 10. Future Work
-
-Possible extensions of this study include:
-- Evaluating on harder difficulty levels
-- Combining deep and diverse instruction datasets
-- Testing different LoRA ranks and configurations
-- Comparing LoRA with other parameter-efficient fine-tuning methods
